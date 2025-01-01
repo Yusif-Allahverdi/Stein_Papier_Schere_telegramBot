@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 
 # Your Telegram Bot API token
-TOKEN = "7335497577:AAFRvjli9ZKQFnn2OCh-x_Hx5pOUbBV7Bps"
+TOKEN = "Your API token"
 bot = telebot.TeleBot(TOKEN)
 
 # Game options in German
